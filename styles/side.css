@@ -1,0 +1,32 @@
+
+
+.side{
+  position:fixed;
+  left:0;
+  top:55px;
+  bottom: 0;
+  width:72px;
+  background-color:white;
+  display: flex;
+  flex-direction:column;
+}
+
+.s-icon{
+  height: 24px;
+  width:24px;
+  margin-bottom:5px;
+}
+
+.side-text{
+  font-family: Roboto, Arial;
+  font-size: 10px;
+}
+
+.icon-bar{
+  height:50px;
+  width:70px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin:12px 0px 12px 0px ;
+}
